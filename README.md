@@ -1,4 +1,7 @@
-https://img.shields.io/badge/<FresnoStateNetwork>-<5/10/22>-<red>   Fresno State Network
+![Fresno State-May 2022-brightgreen](https://user-images.githubusercontent.com/104651582/168933164-1bd7c0d7-80c7-4777-8aca-84577e461f2c.svg)
+
+
+Simulation 
 ![FresnoState_sumo1](https://user-images.githubusercontent.com/104651582/168932164-3da71acd-a119-44cb-a13a-933ef82bea5d.jpg)
         Fresno State using OpenstreepMap
 ![FresnoState2](https://user-images.githubusercontent.com/104651582/168932167-b6c1a49c-2953-48b8-b9a1-d3203ef53578.jpg)
